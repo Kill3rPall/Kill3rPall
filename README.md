@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hey there! I'm Abdallah Al-Asmar
 
-<!--
-**Kill3rPall/Kill3rPall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at AAUP (Class of 2028)
+🌍 From Palestine | 19 y/o
+💡 Passionate about coding, game development, and tech content creation
+🚀 What I'm working on:
 
-Here are some ideas to get you started:
+    A custom FiveM server using Lua and QBCore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Frontend projects with React and Tailwind CSS
+
+    Learning Java and diving deeper into object-oriented programming
+
+🎯 Goals:
+
+    Build unique full-stack projects
+
+    Explore mobile development and advanced backend systems
+
+    Create content that inspires beginner developers
+
+🛠️ Tools & Tech:
+
+Java • Lua • JavaScript • React • Tailwind CSS • Node.js • Git • VS Code • DaVinci Resolve
+
+    “Always building. Always learning.”
